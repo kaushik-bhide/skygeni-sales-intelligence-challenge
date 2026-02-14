@@ -1,6 +1,4 @@
-# skygeni-sales-intelligence-challenge
-# Skygeni Sales Intelligence Challenge
-# AI-Driven Sales Intelligence System
+# Skygeni Sales Intelligence Challenge - AI-Driven Sales Intelligence System
 
 ## Overview
 
